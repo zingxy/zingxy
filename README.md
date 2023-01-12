@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @zingxy(Hongqing)
-- 👀 I’m interested in Web frontend
-- 🌱 I’m currently learning react and slate
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 目前学习前端开发
+
+## Stack
+- Javascript
+- Typescript
+- Python
+- React
+- Express
+- MongoDB
 
 <!---
 zingxy/zingxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
