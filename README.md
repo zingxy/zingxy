@@ -1,19 +1,9 @@
 
 ## Profile
 -  Hi, I’m @zingxy(Hongqing)
--  目前学习前端开发
+-  Make self better
 
 ## Social
-
-
-
-## Stack
-- Javascript
-- Typescript
-- Python
-- React
-- Express
-- MongoDB
 
 <!---
 zingxy/zingxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
